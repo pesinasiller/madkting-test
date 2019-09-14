@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/madkting-test/static/css/main.0147a5e5.chunk.css",
+    "main.js": "/madkting-test/static/js/main.d9bfc219.chunk.js",
+    "main.js.map": "/madkting-test/static/js/main.d9bfc219.chunk.js.map",
+    "runtime~main.js": "/madkting-test/static/js/runtime~main.145783e1.js",
+    "runtime~main.js.map": "/madkting-test/static/js/runtime~main.145783e1.js.map",
+    "static/css/2.266e55a5.chunk.css": "/madkting-test/static/css/2.266e55a5.chunk.css",
+    "static/js/2.efd0fc63.chunk.js": "/madkting-test/static/js/2.efd0fc63.chunk.js",
+    "static/js/2.efd0fc63.chunk.js.map": "/madkting-test/static/js/2.efd0fc63.chunk.js.map",
+    "index.html": "/madkting-test/index.html",
+    "precache-manifest.1427ef6461e2d8cd9f450c0928e5a0be.js": "/madkting-test/precache-manifest.1427ef6461e2d8cd9f450c0928e5a0be.js",
+    "service-worker.js": "/madkting-test/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/madkting-test/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.0147a5e5.chunk.css.map": "/madkting-test/static/css/main.0147a5e5.chunk.css.map"
+  }
+}
